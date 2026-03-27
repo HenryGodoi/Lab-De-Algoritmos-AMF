@@ -1,5 +1,5 @@
 
-letra = input("Digite a sua letra:").upper
+letra = input("Digite a sua letra:").upper()
 
 if letra == "A":
     print("Sua letra é uma vogal.")
