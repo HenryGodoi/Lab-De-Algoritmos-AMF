@@ -2,7 +2,7 @@
 dia = int(input()) # código reformulado
 
 while dia <= 365 and dia >= 1: 
-    # dia = int(input()) 
+    # dia = int(input()) (código errado)
     # notei um erro no código, o "dia = int(input())" estava dentro do while e por isso o código não funcionava
     if dia >= 1 and dia <= 59:
         print()
