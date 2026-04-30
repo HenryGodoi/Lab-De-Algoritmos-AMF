@@ -1,12 +1,12 @@
 
 valor_combustivel = float(input())
 
-distri_revenda = valor_combustivel * 0,17
-custo_etanol = valor_combustivel * 0,12
-icms = valor_combustivel * 0,28
+distri_revenda = valor_combustivel * 0.17
+custo_etanol = valor_combustivel * 0.12
+icms = valor_combustivel * 0.28
 # notei que a variavel tinha um / entre o pis e o pasep e por isso o código não funcionou corretamente por conta desse erro
 #c_pis/pasep_cofins = valor_combustivel * 0,07 (Código errado)
-c_pis_pasep_cofins = valor_combustivel * 0,07 # Código reformulado
+c_pis_pasep_cofins = valor_combustivel * 0.07 # Código reformulado
 
 diminuir = distri_revenda + custo_etanol + icms + c_pis_pasep_cofins
 
