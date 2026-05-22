@@ -8,3 +8,5 @@ def tchau():
 def main():
     ola()
     tchau()
+
+main()
