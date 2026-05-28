@@ -8,4 +8,4 @@ def main():
     imposto = int(input("Digite o imposto: "))
     somaImposto(imposto, valor)
 
-main
+main()
