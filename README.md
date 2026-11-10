@@ -2,7 +2,7 @@
 
 Exercícios em Python da disciplina de Algoritmos do curso de Sistemas de Informação da Antonio Meneghetti Faculdade, feitos ao longo de 2026. Cada pasta é uma semana de aula.
 
-## Destaque: trabalho final
+## Destaque: trabalho do estacionamento
 
 [Semana14/Trabalho.py](Semana14/): sistema de estacionamento de aeronaves com vagas, fila de espera, cobrança por diária e gráfico em matplotlib. O README da pasta explica como funciona e como rodar.
 
@@ -15,7 +15,7 @@ Exercícios em Python da disciplina de Algoritmos do curso de Sistemas de Inform
 | `Semana08` | Exercícios da prova |
 | `Semana10` a `Semana12` | Exercícios Ex45 a Ex66 |
 | `Semana13` | Exercícios ExVermelho67 a ExVermelho69 e ExPreto70 a ExPreto82 |
-| `Semana14` | Trabalho final |
+| `Semana14` | Trabalho do estacionamento |
 
 Os exercícios eram separados por cores, Preto e Vermelho, e os nomes das pastas e dos arquivos seguem essa divisão. Alguns exercícios das Semanas 07 e 13 usam o tema de olivais: idade das oliveiras, lotes de azeitona e litros de azeite.
 
@@ -27,4 +27,4 @@ Requisito: Python 3. Cada arquivo é um programa independente:
 python Semana02/Ex01.py
 ```
 
-O trabalho final também precisa da biblioteca matplotlib (`pip install matplotlib`).
+O trabalho do estacionamento também precisa da biblioteca matplotlib (`pip install matplotlib`).

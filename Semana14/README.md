@@ -1,6 +1,6 @@
 # Estacionamento de aeronaves
 
-Trabalho final da disciplina de Algoritmos (Sistemas de Informação, Antonio Meneghetti Faculdade, 2026). É um sistema de linha de comando em Python que controla o estacionamento de aeronaves de um aeroporto: vagas, fila de espera, cobrança por diária e um gráfico da ocupação.
+Trabalho da disciplina de Algoritmos (Sistemas de Informação, Antonio Meneghetti Faculdade, 2026). É um sistema de linha de comando em Python que controla o estacionamento de aeronaves de um aeroporto: vagas, fila de espera, cobrança por diária e um gráfico da ocupação.
 
 ![Gráfico da ocupação gerado pelo programa](grafico_estacionamento.png)
 
